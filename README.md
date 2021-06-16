@@ -1,2 +1,2 @@
 # Learning-JAVA
-java練
+比較的新しいバージョンのJava学習。
